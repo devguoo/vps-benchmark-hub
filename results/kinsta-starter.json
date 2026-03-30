@@ -1,0 +1,33 @@
+{
+  "provider": "Kinsta",
+  "plan": "Starter — WordPress Hosting",
+  "location": "Multiple (Google Cloud C2 machines)",
+  "date": "2026-03-30",
+  "cpu": {
+    "single_thread": null,
+    "multi_thread": null
+  },
+  "memory": {
+    "read_mbps": null,
+    "write_mbps": null
+  },
+  "disk": {
+    "seq_read_mbps": null,
+    "seq_write_mbps": null,
+    "4k_random_iops": null
+  },
+  "network": {
+    "download_mbps": null,
+    "upload_mbps": null,
+    "ping_ms": {
+      "tokyo": null,
+      "hongkong": null,
+      "singapore": null,
+      "los_angeles": null,
+      "frankfurt": null
+    }
+  },
+  "score": null,
+  "notes": "Managed WordPress hosting on Google Cloud Platform C2 instances. Includes CDN.",
+  "source": "Pending community contribution — run benchmark.sh and submit a PR!"
+}
