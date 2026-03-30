@@ -26,13 +26,14 @@ No sponsored rankings. No affiliate bias in data. Just raw performance numbers f
 
 | Rank | Provider | Plan | Location | CPU (ST) | Disk Seq R | 4K IOPS | Download | Score | Review |
 |:----:|:---------|:-----|:---------|:--------:|:----------:|:-------:|:--------:|:-----:|:------:|
-| — | **BandwagonHost** | 20G CN2 GIA-E | Los Angeles DC6 | — | — | — | — | ⏳ Pending | [📖 Review](https://www.bwhhost.com) |
+| 1 | **BandwagonHost** | 20G CN2 GIA-E (3C/2GB) | Los Angeles DC6 | 1429 | 1497 MB/s | 12585 | 203 Mbps | 🟡 66 | [📖 Review](https://www.bwhhost.com) |
+| 2 | **Alibaba Cloud** | ECS 2C/3.5GB | Hangzhou China | 406 | 109 MB/s | 2774 | 147 Mbps | 🔴 14 | — |
 | — | **Cloudways** | Vultr High Frequency — 1GB RAM | Multiple (Vultr infrastructure) | — | — | — | — | ⏳ Pending | [📖 Review](https://www.cloudwaysguide.com) |
 | — | **DigitalOcean** | Basic Droplet — 1 vCPU / 1GB RAM | Singapore (SGP1) | — | — | — | — | ⏳ Pending | [📖 Review](https://www.digitaloceanpro.com) |
 | — | **Kinsta** | Starter — WordPress Hosting | Multiple (Google Cloud C2 machines) | — | — | — | — | ⏳ Pending | [📖 Review](https://www.kinstainfo.com) |
 | — | **Vultr** | Cloud Compute — 1 vCPU / 1GB RAM | Tokyo | — | — | — | — | ⏳ Pending | [📖 Review](https://www.vultrinfo.com) |
 
-> **5** providers tested · Last updated: 2026-03-30 · Score = weighted composite (CPU 30% + Disk 30% + Memory 20% + Network 20%)
+> **6** providers tested · Last updated: 2026-03-30 · Score = weighted composite (CPU 30% + Disk 30% + Memory 20% + Network 20%)
 >
 > ⏳ **Pending** = waiting for community benchmarks. [Contribute yours!](#-how-to-contribute)
 
