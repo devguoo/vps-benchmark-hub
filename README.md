@@ -33,7 +33,7 @@ No sponsored rankings. No affiliate bias in data. Just raw performance numbers f
 | — | **Kinsta** | Starter — WordPress Hosting | Multiple (Google Cloud C2 machines) | — | — | — | — | ⏳ Pending | [📖 Review](https://www.kinstainfo.com) |
 | — | **Vultr** | Cloud Compute — 1 vCPU / 1GB RAM | Tokyo | — | — | — | — | ⏳ Pending | [📖 Review](https://www.vultrinfo.com) |
 
-> **6** providers tested · Last updated: 2026-04-17 · Score = weighted composite (CPU 30% + Disk 30% + Memory 20% + Network 20%)
+> **6** providers tested · Last updated: 2026-04-20 · Score = weighted composite (CPU 30% + Disk 30% + Memory 20% + Network 20%)
 >
 > ⏳ **Pending** = waiting for community benchmarks. [Contribute yours!](#-how-to-contribute)
 
@@ -186,3 +186,4 @@ Looking for detailed provider reviews and setup guides?
 **Built with 💻 by the community · [Contribute a benchmark](#-how-to-contribute) · [View all data](results/)**
 
 </div>
+2026-04-20
